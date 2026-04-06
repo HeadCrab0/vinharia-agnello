@@ -2,9 +2,9 @@ let nome = prompt("Digite seu nome:");
 
 console.log(`Cadastro realizado. Usuario: ${nome}`);
 alert(`Cadastro realizado! Bem-vindo, ${nome}`);
-let vinho = prompt("Digite o nome do vinho ");
+let vinho = prompt("Digite o nome do vinho: ");
 console.log(`nome do vinho: ${vinho}`);
-let tipo = prompt("Tipo do vinho é Tinto, Branco ou Rose ?");
+let tipo = prompt("Tipo do vinho é Tinto, Branco ou Rose: ");
 console.log(`tipo do vinho: ${tipo}`);
 let safra = prompt("Qual ano é a safra do vinho:");
 console.log(`safra do vinho: ${safra}`);
