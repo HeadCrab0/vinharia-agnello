@@ -9,6 +9,6 @@ console.log(`tipo do vinho: ${tipo}`);
 let safra = prompt("Qual ano é a safra do vinho:");
 console.log(`safra do vinho: ${safra}`);
 let quantidade = prompt("Quantos desse vinho estão em estoque:");
-console.log(`quantidade em estoque do vinho ${nome} é: ${quantidade});
+console.log(`quantidade em estoque do vinho ${nome} é: ${quantidade}`);
 alert("Cadastro realizado, veja as infomações no console.");
 
